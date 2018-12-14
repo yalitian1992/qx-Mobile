@@ -1,0 +1,117 @@
+/* 开心果冻 */
+.icon-happy-currency {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/happy-currency.png") no-repeat;
+  background-size: 100%;
+}
+/* 抢兑 */
+.icon-grab {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/icon-grab.png") no-repeat;
+  background-size: 100%;
+}
+/* 拼团 */
+.icon-spellGroup {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/icon-spellGroup.png") no-repeat;
+  background-size: 100%;
+}
+/* 友物 */
+.icon-friendsGoods {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/icon-friendsGoods.png") no-repeat;
+  background-size: 100%;
+}
+
+/* 果冻王 */
+.icon-currency {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/icon-currency.png") no-repeat;
+  background-size: 100%;
+}
+/* 现金红包 */
+.icon-envelope {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/icon-envelope.png") no-repeat;
+  background-size: 100%;
+}
+
+
+
+
+/* 送书 */
+/* .icon-send-book {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/send-book.png") no-repeat;
+  background-size: 100%;
+} */
+/* 闪拍 */
+.icon-flash-shot {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/flash-shot.png") no-repeat;
+  background-size: 100%;
+}
+/* 故事 */
+/* .icon-story {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/story.png") no-repeat;
+  background-size: 100%;
+} */
+/* 签到 */
+.icon-checkIn {
+  width: 1.21rem;
+  height: 1.21rem;
+  background: url("../images/home/icon-checkIn.png") no-repeat;
+  background-size: 100%;
+}
+/* 首页 */
+.icon-item-home {
+  width: 1rem;
+  height: 0.9rem;
+  background: url("../images/home/home-normal.png") no-repeat;
+  background-size: 100%;
+}
+.icon-item-home.active {
+  background: url("../images/home/home-active.png") no-repeat;
+  background-size: 100%;
+}
+/* 发布 */
+.icon-item-release {
+  width: 1.47rem;
+  height: 1.47rem;
+  background: url("../images/send.png") no-repeat;
+  background-size: 100%;
+}
+/* 我的 */
+.icon-item-my {
+  width: 0.9rem;
+	height: 0.77rem;
+  background: url("../images/home/my-normal.png") no-repeat;
+  background-size: 100%;
+}
+.icon-item-my.active {
+  background: url("../images/home/my-active.png") no-repeat;
+  background-size: 100%;
+}
+
+
+/* 返回按钮 */
+.icon-back {
+  width: 0.31rem;
+  height: 0.69rem;
+  background: url("../images/icon-normal-back.png") no-repeat;
+  background-size: 100%;
+}
+.icon-white-back {
+  filter: brightness(2);
+}
+
